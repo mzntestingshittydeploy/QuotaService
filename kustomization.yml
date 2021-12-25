@@ -1,0 +1,3 @@
+resources:
+  - deploy/app.yml
+  - deploy/mysql-quota.yml
